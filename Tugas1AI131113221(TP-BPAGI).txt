@@ -1,0 +1,147 @@
+Nama	: M. Reza Fahlevi Pulungan
+NIM	  : 131113221
+Kelas	: TP-B Pagi
+
+Baca artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 di alamat ini: http://www.loebner.net/Prizef/TuringArticle.html kemudian tuliskan sebuah artikel yang berisi argumentasi anda. 
+1.	Apakah anda setuju atau tidak dengan pendapat Turing?
+2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+
+Jawab
+
+1.	Setuju, Turing mengusulkan untuk mempertimbangkan pertanyaan, "bisakah mesin berpikir?" Ini harus dimulai dengan definisi arti dari istilah "mesin" dan "berpikir." Definisi mungkin dibingkai sehingga dapat mencerminkan sejauh mungkin penggunaan normal dari kata-kata, tapi sikap ini berbahaya. Jika arti dari kata-kata "mesin" dan "berpikir" yang dapat ditemukan dengan memeriksa bagaimana mereka biasanya digunakan sulit untuk menghindari kesimpulan bahwa makna dan jawaban atas pertanyaan, "bisakah mesin berpikir?" adalah harus dicari dalam survei statistik seperti jajak pendapat Gallup. Tapi ini tidak masuk akal. Alih-alih mencoba definisi seperti itu Turing akan mengganti pertanyaan dengan yang lain, yang berkaitan erat dengan itu dan dinyatakan dalam kata-kata yang relatif tidak ambigu.
+Masalah baru memiliki keuntungan dari menggambar garis yang cukup tajam antara fisik dan kapasitas intelektual manusia. Tidak ada insinyur atau ahli kimia mengklaim dapat menghasilkan bahan yang tidak dapat dibedakan dari kulit manusia. Ada kemungkinan bahwa pada beberapa waktu ini mungkin dilakukan, tapi bahkan seandainya penemuan ini tersedia kita harus merasa ada gunanya mencoba untuk membuat "berpikir mesin" lebih manusiawi.
+Bentuk yang telah Turing tetapkan masalah mencerminkan fakta ini dalam kondisi yang mencegah interogator dari melihat atau menyentuh kompetitor lain, atau mendengar suara-suara mereka. Beberapa keuntungan lain dari kriteria yang diusulkan dapat ditampilkan oleh spesimen pertanyaan dan jawaban.
+Pertanyaan dan jawaban metode tampaknya cocok untuk memperkenalkan hampir semua salah satu bidang usaha manusia yang ingin kita sertakan. Mereka tidak ingin menghukum mesin untuk ketidakmampuannya untuk bersinar di kompetisi kecantikan, atau untuk menghukum seorang pria untuk kalah dalam perlombaan melawan pesawat terbang.
+Permainan mungkin dapat dikritik atas dasar bahwa peluang yang berbobot terlalu berat melawan mesin. Jika orang itu adalah untuk mencoba dan berpura-pura menjadi mesin ia akan jelas membuat menunjukkannya dengan sangat miskin. Dia akan diberikan sekaligus dengan kelambatan dan ketidaktelitian dalam aritmatika. Tidak mungkin mesin melaksanakan sesuatu yang seharusnya digambarkan sebagai pemikiran tapi yang sangat berbeda dari apa yang seorang pria melakukan? Keberatan ini adalah salah satu yang sangat kuat, tapi setidaknya kita dapat mengatakan bahwa jika, bagaimanapun, mesin dapat dibangun untuk bermain game imitasi memuaskan, kita tidak perlu terganggu oleh keberatan ini.
+Sudah ada sejumlah komputer digital dalam rangka kerja, dan mungkin bertanya, "mengapa tidak mencoba percobaan langsung?” ini akan mudah untuk memenuhi kondisi permainan. Sejumlah interogator dapat digunakan, dan statistik dikompilasi untuk menunjukkan seberapa sering identifikasi yang tepat diberikan. Jawaban singkatnya adalah bahwa kita tidak menanyakan apakah semua komputer digital akan melakukannya dengan baik dalam permainan atau apakah komputer saat ini tersedia akan melakukannya dengan baik, tapi apakah ada komputer dibayangkan yang akan melakukannya dengan baik. Tapi ini hanya jawaban pendek. 
+Ide di balik komputer digital dapat dijelaskan dengan mengatakan bahwa mesin ini dimaksudkan untuk melakukan operasi yang bisa dilakukan oleh komputer manusia. Komputer manusia seharusnya mengikuti aturan tetap,  ia tidak memiliki wewenang untuk menyimpang dari mereka secara rinci.
+Pembaca harus menerimanya sebagai fakta bahwa komputer digital dapat dibangun, dan memang telah dibangun, menurut prinsip-prinsip yang telah dijelaskan, dan bahwa mereka sebenarnya bisa meniru tindakan dari komputer manusia yang sangat erat.
+Buku aturan yang telah dijelaskan komputer kita sebagai manusia dengan menggunakan ini tentu saja fiksi yang nyaman. Komputer manusia yang sebenarnya benar-benar ingat apa yang mereka punya untuk melakukan. Jika seseorang ingin membuat mesin meniru perilaku manusia komputer dalam beberapa operasi kompleks kita harus bertanya kepadanya bagaimana hal itu dilakukan, dan kemudian menerjemahkan jawabannya ke dalam bentuk tabel instruksi. Membangun tabel instruksi biasanya digambarkan sebagai "pemrograman". Untuk "memprogram mesin untuk melaksanakan operasi A" berarti meletakkan meja instruksi yang tepat ke dalam mesin sehingga akan melakukan A.
+Turing juga mempertimbangankan pendapat lawannya sendiri, seperti keberatan teologis, keberatan matematika, argumentasi kesadaran, keberatan lady lovelace, argumentasi dari continuity disistem saraf, argumentasi informalitas perilaku, argumentasi persepsi extrasensory, mesin pembelajaran.
+Seperti yang telah Turing jelaskan, masalah terutama salah satu pemrograman. Kemajuan dalam rekayasa akan harus dibuat juga, tapi tampaknya tidak mungkin bahwa ini tidak akan cukup untuk kebutuhan. Perkiraan kapasitas penyimpanan otak bervariasi dari 10 Oktober-15 Oktober digit biner. Turing cenderung untuk nilai-nilai yang lebih rendah dan percaya bahwa hanya sebagian kecil digunakan untuk jenis yang lebih tinggi dari pemikiran. Sebagian besar mungkin digunakan untuk retensi tayangan visual, Turing harus heran jika lebih dari 10 9 yang diperlukan untuk bermain memuaskan dari permainan imitasi, pada setiap tingkat terhadap orang buta. Catatan: kapasitas encyclopaedia britannica, edisi ke-11, adalah 2 X 10 9) A kapasitas penyimpanan 10 7, akan menjadi kemungkinan yang sangat praktis bahkan dengan teknik ini. Hal ini mungkin tidak diperlukan untuk meningkatkan kecepatan operasi dari mesin sama sekali. Bagian dari mesin modern yang dapat dianggap sebagai analog dari sel-sel saraf bekerja sekitar seribu kali lebih cepat dari pada yang terakhir. Ini harus menyediakan "margin of safety" yang bisa menutupi kerugian dari kecepatan yang timbul dalam banyak hal, masalah kami maka adalah untuk mengetahui bagaimana program mesin ini untuk bermain game.
+Ide mesin pembelajaran mungkin tampak paradoks untuk beberapa pembaca. Bagaimana aturan operasi mesin bisa berubah? Mereka harus menjelaskan sepenuhnya bagaimana mesin akan bereaksi apapun mungkin sejarahnya, apa pun perubahan itu mungkin dapat dijalani. Aturan demikian cukup variasi waktu. Hal ini cukup benar. Penjelasan dari paradoks adalah bahwa aturan yang bisa berubah dalam proses pembelajaran adalah dari jenis yang agak kurang megah, mengklaim hanya berlaku sementara.
+Kita hanya bisa melihat jauh di depan, tapi kita bisa melihat banyak ada yang perlu dilakukan.
+ 
+2.	Ada, melalui berita yang saya dapatkan: http://tekno.kompas.com/read/2014/06/09/1340004/lulus.ujian.komputer.kelabui.manusia telah ada komputer yang lulus tes Turing. Artinya, para filsuf dan ilmuwan telah lama memikirkan masalah kecerdasan. Orang-orang yang digambarkan sebagai cerdas bisa jadi ahli, berpengetahuan, cermat, cerdik, ataupun simpatik. Komputer dapat melakukan tugas-tugas yang memerlukan keahlian, mereka dapat menyimpan informasi dan diangap cermat ketika mereka merespon rangsangan tertentu. Tetapi saat ini, mereka hanya dapat melakukan hal-hal tersebut apabila mereka diprogram untuk melakukannya. Terlebih lagi, akan sangat sulit membayangkan sebuah komputer yang simpatis ataupun cerdik. Definisi apa pun tentang cerdas harus meliputi kebanyakan atau kesemua kemampuan manusia berikut ini: penalaran, belajar, menetapkan, mengingat, emosi, kemauan, pemahaman, akal sehat, dan kesadaran. Komputer dapat diprogram untuk belajar dan mengingat, tetapi komputer dengan kemampuan untuk menetapkan, emosi, keinginan, pemahaman, dan perasaan akal sehat tampaknya merupakan sebuah tantangan.  Satu hal yang pasti pada diri manusia setidaknya  kesemua kemampuan dan kualitas yang tertera di atas tampaknya dapat ada karena kita memiliki akal. Barangkali bagi sebuah komputer agar benar-benar cerdas, perlu memiliki akal juga.
+
+3.	Untuk bisa dikatakan lolos tes Turing, komputer harus memiliki kemampuan untuk memproses beberapa proses berikut:
+a.	Natural language processing, dimana komputer mampu berkomunikasi dengan lancar menggunakan bahasa Inggris.
+b.	Knowledge representation, dimana komputer mampu menyimpan informasi-informasi  yang diberi tahu.
+c.	Automated reasoning, dimana komputer menggunakan informasi (pengetahuan) yang telah disimpan untuk menjawab pertanyaan dan membuat kesimpulan baru.
+d.	Machine learning, dimana komputer mampu beradaptasi dan memperkirakan pola-pola yang akan terjadi/mungkin muncul. 
+ 
+Adapun yang disebut dengan total Turing tes, dimana selain empat proses diatas, agar komputer bisa dikatakan lolos total Turing tes, komputer juga harus mampu melakukan dua proses berikut: 
+a.	Computer vision, dimana komputer mampu melihat dan menginterpretasikan objek.
+b.	Robotics, dimana komputer mampu memanipulasi objek dan mampu bergerak.
+ 
+•	Pengolahan Bahasa Alami
+
+Teknologi Pemrosesan Bahasa Alami sebagai Teknologi Kunci untuk Meningkatkan Cara Interaksi antara Manusia dengan Mesin
+                                                    Arry Akhmad Arman
+
+Pada prinsipnya bahasa alami adalah suatu bentuk representasi dari suatu pesan yang ingin dikomunikasikan antar manusia. Bentuk utama representasinya adalah berupa suara/ucapan (spoken language), tetapi sering pula dinyatakan dalam bentuk tulisan. Bahasa dapat dibedakan menjadi (1) Bahasa Alami, dan (2) Bahasa Buatan. Bahasa alami adalah bahasa yang biasa digunakan untuk berkomunikasi antar manusia, misalnya bahasa Indonesia, Sunda, Jawa, Inggris, Jepang, dan sebagainya. Bahasa buatan adalah bahasa yang dibuat secara khusus untuk memenuhi kebutuhan tertentu, misalnya bahasa pemodelan atau bahasa pemrograman komputer. Chomsky adalah orang yang pertama kali merepresentasikan bahasa sebagai rangkaian simbol. Chomsky berhasil memperlihatkan bahwa bahasa apapun dapat direpresentasikan dengan suatu cara yang universal. Pemikiran Chomsky yang merepresentasikan bahasa sebagai kumpulan simbol-simbol dan aturan yang mengatur susunan simbol-simbol tersebut telah membuka peluang untuk melakukan pemrosesan bahasa secara simbolik dengan teknologi komputer, sehingga melahirkan bidang ilmu Natural Language Processing (NLP). Dipandang dari sisi implementasi teknologinya, pemrosesan bahasa lisan dan tulisan adalah sangat berbeda. Bahasa lisan lebih banyak melakukan pemrosesan bunyi atau suara, sedangkan bahasa tulisan lebih banyak melakukan pemrosesan simbol-simbol tertulis. Sebagai akibatnya, penelitian di bidang bahasa lisan pada awalnya lebih banyak dilakukan dalam bidang ”signal processing”, sedangkan penelitian-penelitian untuk pemrosesan bahasa tulisan lebih banyak dilakukan dalam bidang ”artificial intelligence” atau kecerdasan buatan yang pada prinsipnya melakukan symbolic processing. Saat ini, teknologi yang berkaitan dengan pemrosesan bahasa alami ini sering disebut sebagai ”speech and language technology”, “natural language processing technology”, “human language technology”, atau dalam beberapa pertemuan ilmiah para peneliti dibidang ini di Indonesia, menyepakati penggunaan istilah ”teknologi bahasa” untuk menyebut teknologi ini. Dari segi keilmuan, bidang ini dikenal sebagai bidang ”natural language processing” atau ”computational linguistic”. Suatu sistem pemrosesan bahasa alami secara lisan dapat dibentuk dari tiga sub-sistem, yaitu sebagai berikut:
+1.	Sub-Sistem Natural Language Processing (NLP), berfungsi untuk melakukan pemrosesan secara simbolik terhadap bahasa tulisan. Beberapa bentuk aplikasi sub-sistem ini adalah translator bahasa alami (misalnya dari Bahasa Inggris ke Bahasa Indonesia), sistem pemeriksa sintaks bahasa, sistem yang dapat ”menyimpulkan” suatu narasi, dan sebagainya. 
+2.	Sub-sistem Text to Speech (TTS), berfungsi untuk mengubah text (bahasa tulisan) menjadi ucapan (bahasa lisan).
+3.	Sub-Sistem Speech Recognition (SR), merupakan kebalikan teknologi Text to Speech, yaitu sistem yang  berfungsi untuk mengubah atau mengenali suatu ucapan (bahasa lisan) menjadi text (bahasa tulisan).
+
+•	Knowledge Representation 
+
+                                                      Representasi Pengetahuan
+                                     Irwan Suputra, Bayu Eka Marhendra, Eko Febriyanto, Adi Artana
+Pengetahuan dibedakan menjadi tiga klasifikasi yaitu:
+1.	Prodecural knowledge adalah pengetahuan yang berkaitan dengan prosedur atau cara untuk melakukan sesuatu. Contohnya, bagaimana cara mendidihkan air dalam panci.
+2.	Declarative knowledge adalah pengetahuan untuk dapat menentukan nilai benar dan salah suatu hal. Contohnya, jangan celupkan tangan anda dalam air yang mendidih.
+3.	Tacid knowledge kadang disebut juga sebagai "unconscious knowledge", karena pengetahuan tidak dapat diekspresikan atau didefinisikan dengan bahasa. Contohnya, bagaimana menggerakkan tangan.
+Representasi pengetahuan adalah suatu teknik untuk merepresentasikan basis pengetahuan yang diperoleh kedalam suatu skema/diagram tertentu sehingga dapat diketahui relasi/keterhubungan antara suatu data dengan data yang lain sehingga dapat diuji kebenaran penalarannya. Representasi pengetahuan biasanya digunakan untuk pembuatan sistem pakar dimana komputer dirancang untuk dapat mengambil keputusan seperti manusia agar dapat memecahkan permasalahan.
+Secara singkat, represntasi pengetahuan diklarifikasikan menjadi empat kategori :
+1.	Representasi logika, representasi jenis ini menggunakan ekspresi-ekspresi dalam logika formal untuk merepresentasikan basis pengetahuan.
+2.	Representasi prosedural, representasi yang menggambarkan pengetahuan sebagai kumpulan instruksi untuk memcahkan suatu problema.
+3.	Representasi network, representasi ini menangkap pengetahuan sebagai sebuah graph dimana simpul-simpulnya menggambarkan obyek atau konsep dari problema yang dihadapi, sedangkan edge-nya mengambarkan hubungan atau asosiasi antar mereka.
+4.	Representasi terstruktur memperluas network dengan cara membuat setiap simpulnya menjadi struktur data kompleks.
+Adapun bentuk representasi pengetahuan yang telah dikembangkan, yaitu:
+a)	Jaringan Semantik (Semantic nets)
+Jaringan Semantik adalah tehnik representasi dalam artificial intelligence klasik untuk informasi proposional, sehingga sering kali disebut sebagai proposional network. Proposisi adalah pernyataan yang dapat bernilai benar atau salah dan merupakan bentuk pengetahuan deklaratif. Semantic network pertama kali dikembangkan untuk AI sebagai cara untuk mempresentasikan memory dan pemahaman bahasa manusia. Struktur semantic nets berupa grafik dengan node (simpul) dan arc (ruas) yang menghubungkannya.
+b)	Object-Attribute-Value (OAV)
+Bentuk object-attribute-value triple dapat digunakan untuk mempresentasikan semua karakteristik pengetahuan dalam semantic net dan digunakan pada sistem pakar MYCIN untuk mendiagnosa penyakit infeksi.
+c)	Bingkai (Frame)
+Salah satu tipe skema yang digunakan dalam beberapa aplikasi AI adalah  frame. Frame merupakan struktur yang baik untuk mempresentasikan objek yang tipikaldalam situasi tertentu. Karakteristik dasar frame adalah frame mempresentasikan pengetahuan yang terkait mengenai sebuah subjek yang sempit dan memiliki default. Sistem frame adalah pilihan yang baik untuk mendeskripsikan peralatan mekanik seperti mobil. Frame mencoba memodelkan obyek yang ada di dunianyata menggunakan pengetahuan generik untuk atribut yang banyak dimiliki oleh obyek dan pengetahuan spesifik untuk kasus khusus.
+d)	Aturan Produksi (Production Rule)
+Aturan produksi adalah jenis representasi pengetahuan yang paling umum digunakan karena memiliki keuntungan yang lebih dibandingkan dengan kekurangannya.
+Keuntungan dalam menggunakan representasi pengetahuan.
+1.	Dapat membuat objek dan relasi yang penting menjadi jelas.
+2.	Menyingkap constraint (batasan) dalam suatu permasalahan sehingga suatumasalah dapat diungkap dengan menggunakan suatu relasi dengan relasi yang lain terhadap objek yang dihadapi.
+3.	Kita akan dapatkan objek dan relasi secara bersama-sama dan kita bisa melihat semuanya dalam satu waktu.
+4.	Kita dapat menghilangkan semua komponen yang tidak berhubungan dalam masalah yang sedang kita selesaikan. Jadi kita bisa menghemat suatu logika untuk mendapatkan suatu pemecahanan permasalahan yang dihadapi.
+5.	Akan membuat permasalahan menjadi transparan, kita dapat memahami dengan jelas dan menyelesaikannya.
+6.	Akan membuat permasalahan menjadi ringkas, kita akan berpikir ringkas (merepresentasikan secara efisien dan fokus terhadap masalah).
+7.	Akan membuat pekerjaan kita menjadi cepat dan menjadi penting.
+8.	Menjadikan permasalahan secara terkomputerisasi, dengan ini kita dapat melakukan prosedur-prosedur dalam menyelesaikannya.
+
+•	Automated Reasoning 
+
+Penalaran Otomatis
+Biasa disebut dengan penalaran otomatis adalah bidang ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran. Studi tentang penalaran otomatis membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis.
+
+
+•	Machine Learning 
+
+Sumber: wikipedia.
+Pembelajaran Mesin, cabang dari kecerdasan buatan, adalah disiplin ilmu yang mencakup perancangan dan pengembangan algoritma yang memungkinkan komputer untuk mengembangkan perilaku yang didasarkan pada data empiris, seperti dari sensor data basis data. Sistem pembelajar dapat memanfaatkan contoh (data) untuk menangkap ciri yang diperlukan dari probabilitas yang mendasarinya (yang tidak diketahui). Data dapat dilihat sebagai contoh yang menggambarkan hubungan antara variabel yang diamati. Fokus besar penelitian pembelajaran mesin adalah bagaimana mengenali secara otomatis pola kompleks dan membuat keputusan cerdas berdasarkan data. Kesukarannya terjadi karena himpunan semua perilaku yang mungkin, dari semua masukan yang dimungkinkan, terlalu besar untuk diliput oleh himpunan contoh pengamatan (data pelatihan). Karena itu pembelajar harus merampatkan (generalisasi) perilaku dari contoh yang ada untuk menghasilkan keluaran yang berguna dalam kasus-kasus baru. Mesin disini adalah mesin dalam pengertian lebih mendekati ‘sistem’ bukan mesin mekanik. Istilah learning pertama kali muncul dalam disiplin ilmu AI (Artificial Intelligence). Pembelajaran berarti menambah pengetahuan, memahami dengan belajar, mengikuti intruksi. Pembelajaran mesin merupakan salah satu cabang dari kecerdasan buatan yang membahas mengenai pembangunan sistem yang didapat berdasarkan pada pembelajaran data, atau sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Inti dari pembelajaran mesin adalah representasi dan generelisasi. Pada tahun 1959, Arthur Samuel mendefinisikan bahwa pembelajaran mesin adalah bidang studi yang memberikan kemampuan untuk belajar tanpa diprogram secara eksplisit. Kemampuan belajar yang menjadi dominan ditentukan oleh kemampuan perangkat lunak atau alogaritmanya. Implementasi kemampuan belajar dapat dicapai dengan berbagai teknik, ada yang menggunakan rule, ada yang menggunakan statistika, ada yang menggunakan pendekatan fisiologi yaitu sistem saraf manusia atau disebut dengan ANN (Artificial Neural Network) atau jaringan saraf tiruan. Pembelajaran mesin dapat berfungsi untuk beradaptasi dengan suatu keadaan yang baru, serta untuk mendeteksi dan memperkirakan suatu pola.
+Aplikasi untuk pembelajaran mesin termasuk:
+•	Machine perception
+•	Computer vision, including object recognition
+•	Natural language processing
+•	Syntactic pattern recognition
+•	Machine learning
+•	Medical diagnosis
+•	Bioinformatics
+•	Brain-machine interfaces
+•	Cheminformatics
+•	Detecting credit card fraud
+•	Stock market analysis
+•	Classifying DNA sequences
+•	Sequence mining
+•	Speech and handwriting recognition
+•	Games
+•	Software engineering
+•	Adaptive websites
+•	Robot locomotion
+•	Computational advertising
+•	Computational finance
+•	Structural health monitoring
+•	Sentiment analysis (or opinion mining)
+•	Affective computing
+•	Menerima informasi
+•	Recommender system
+
+
+•	Computer Vision
+
+Visi komputer (Computer Vision) adalah salah satu teknologi yang paling banyak dipakai pada zaman ini. Teknologi visi komputer ini merupakan  salah satu bidang dari teknologi Artificial Intelligence. Visi komputer juga merupakan dan kumpulan dari metode-metode untuk mendapatkan, memproses, menganalisis suatu gambar atau dalam arti lain visi komputer, merupakan kumpulan metode-metode yang digunakan untuk menghasilkan angka-angka atau simbol-simbol yang didapat dari gambar yang diambil dari dunia nyata agar komputer dapat mengerti apa makna dari gambar tersebut. Inti dari teknologi visi komputer adalah untuk menduplikasi kemampuan penglihatan manusia kedalam benda elektronik sehingga benda elektronik dapat memahami dan mengerti arti dari gambar yang dimasukkan (Milan Sonka, Vaclav Hlavac and Roger Boyle - 2008). 
+Pemahaman gambar pada komputer ini dilakukan dengan menguraikan informasi simbolis dari data gambar dengan menggunakan model yang dibangun dengan bantuan geometri, fisika, statistika, dan teori serta metode-metode lainnya (David A. Forsyth dan Jean Ponce, 2003). Visi komputer juga dideskripsikan sebagai suatu teknologi untuk mengotomatisasi  dan mengintegrasikan berbagai proses dan represetasi untuk menghasilkan presepsi penglihatan (Dana H. Ballard dan Christopher M. Brown, 1982).
+Visi komputer sekarang ini sering digunakan untuk mendeteksi wajah pada gambar (face detection), mengenali ekspresi wajah (facial expression recognition) dan dalam prakteknya sering digunakan bersama dengan jaringan syaraf tiruan (artificial neural network).
+
+•	Robotika 
+
+                                              Mengenal Robot dan karakteristiknya
+                                                      Elektronika Robotika
+
+Robot merupakan hal yang kompleks dan sulit dideskripsikan dengan kata-kata. Robot biasanya diprogram untuk melakukan pekerjaan berulang kali dan memiliki mekanisme yang dipandu oleh kontrol otomatis. Sedangkan robotika pada dasarnya adalah ilmu yang mempelajari tentang robot, sehingga robotika memiliki definisi sebagai cabang teknologi yang berkaitan dengan desain, konstruksi, operasi, dan aplikasi dari robot. Robotika merupakan cabang ilmu pengetahuan yang mempelajari tentang robot. Cabang ilmu tersebut mencakup desain mesin robot, elektronika, pengontrolan, pemrograman komputer, kecerdasan buatan, dan lain sebagainya.
+Definisi Robot
+Terdapat beberapa pendapat para ahli robot dalam meberikan definisi dari robot. Berdasarkan beberapa referensi diperoleh beberapa definisi robot sebagai berikut.
+1.	Dalam kamus Meriam-Webster definisi robot adalah mesin yang terlihat seperti manusia dan melakukan berbagai tindakan yang kompleks dari manusia seperti berjalan atau berbicara, atau suatu peralatan yang bekerja secara otomatis.
+2.	Robotic Institute of America merupakan institusi robot pada Universitas Carnegie Mellon pada tahun 1979 membuat definisi robot adalah manipulator multi fungsi dan dapat diprogram ulang yang dirancang untuk menggerakkan material, alat, atau perangkat khusus melalui sejumlah gerakan terprogram untuk melakukan aktifitas tertentu.
+Karakteristik Dasar Robot
+Robot memiliki empat karakteristik dasar, sehingga kita bisa lebih mudah menentukan apakah suatu benda merupakanrobot atau bukan dengan mengetahui karakteristik dasar dari benda tersebut. Empat karakteristik dasar atau bagian robot yang harus ada atau harus dimiliki oleh setiap robot tersebut adalah :
+1.	Robot Memiliki Sensor
+Sensor merupakan peralatan yang berguna untuk mengukur ataupun merasakan sesuatu pada lingkungan diluar robot, layaknya indera pada makhluk hidup, dan memberi laporan hasilnya kepada robot. Dengan adanya sensor, robot bisa memiliki suatu pertimbangan dalam mengambil keputusan. Contoh dari sensor adalah sensor cahaya untuk mendeteksi adanya cahaya dan sensor temperatur untuk mengukur suhu.
+2.	Robot Memiliki (Kontrol) sistem kecerdasan
+Sistem kecerdasan bekerja dengan memproses data masukan berupa keadaan ataupun kejadian yang sedang terjadi dari luar lingkungan. Selanjutnya sistem menghasilkan keluaran berupa instruksi ataupun keputusan pada robot untuk melakukan suatu tindakan tertentu. Sistem ini secara umum memiliki prinsip kerja seperti otak pada makhluk hidup, yang berfungsi untuk berpikir dan memutuskan tindakan apa yang perlu diambil pada suatu waktu tertentu.
+3.	Robot Memiliki (Aktuator) Peralatan Mekanik
+Peralatan mekanik berfungsi untuk membuat robot dapat melakukan suatu tindakan tertentu dan berinteraksi dengan lingkungannya. Contohnya seperti adanya roda bermotor untuk bergerak, lengan untuk mengambil objek, dan lain-lain.
+4.	Robot Memiliki (Power) Sumber Daya
+Seperti halnya makhluk hidup yang membutuhkan makanan untuk hidup, robot juga memerlukan sumber tenaga untuk menggerakkan komponen elektrik dan mekanika yang terpasang. Sumber energi pada robot mencakup penyedia tenaga listrik seperti baterai, dan sistem pengatur transmisi yang bertugas mengonversi tenaga listrik sesuai kebutuhan setiap komponen.
+Pada robot modern, aktuator sering kali dikaitkan dengan ilmu mekanika. Dalam mekanika, dipelajari hal-hal mengenai berbagai macam gaya yang terjadi akibat susunan konstruksi, letak pusat gravitasi, dan sifat material. Dengan mempertimbangkan sifat-sifat mekanika, robot akan bergerak dengan stabil dan mengurangi resiko terjatuh.
+Sensor pada robot modern seringkali berkaitan dengan ilmu elektronika. Dalam ilmu elektronika dipelajari hal-hal yang berkaitan dengan komponen elektronik, sirkuit analog, sirkuit digital, dan juga microcontroller. Sebuah sensor dapat tersusun dari rangkaian analog atau rangkaian digital. Bersamaan dengan meningkatnya teknologi komputer dan elektronika maka meningkat pula pengembangan sensor yang dapat difabrikasikan dengan ukuran mini.
+Sistem kecerdasan pada robot modern dikembangkan pada sebuah piranti lunak. Kecerdasan buatan dapat dirancang menggunakan algoritma yang memungkinkan robot bergerak secara otomatis, dengan mempertimbangkan informasi sekitar yang dibaca dari sensor yang ada. Selain itu terdapat layer keterhubungan antara sistem kecerdasan dengan sensor dan aktuator. Dengan demikian, data dapat ditransfer antar komponen yang dikelola oleh perangkat keras menggunakan piranti lunak yang dibuat untuk robot tersebut.
